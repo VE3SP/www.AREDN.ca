@@ -1,6 +1,5 @@
 # www.AREDN.ca
 www.AREDN.ca
-
 AREDN - Amateur Radio Emergency Data Network
 
 https://groups.io/g/AREDN
@@ -16,11 +15,7 @@ USA  -  https://bit.ly/callsignusa
 
 Australia -  https://bit.ly/callsignaus
 
-
-
-
 MAP:
-
 www.bit.ly/aredntoronto1  —  map Toronto
 
 www.bit.ly/aredntoronto   —  map Toronto
@@ -39,8 +34,5 @@ bit.ly/AREDN  -  downloads
 
 coverage map:
 bit.ly/link-ui  -  map
-
-
-
 
 
